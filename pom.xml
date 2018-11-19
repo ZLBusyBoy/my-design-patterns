@@ -8,7 +8,6 @@
   <modules>
     <module>builder</module>
     <module>JUCPatterns</module>
-    <module>test</module>
   </modules>
   <name>java-design-patterns Maven Webapp</name>
   <url>http://maven.apache.org</url>
